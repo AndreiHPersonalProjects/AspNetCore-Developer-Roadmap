@@ -1,15 +1,5 @@
 # ASP.NET Core Developer Roadmap
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsors)
-
-- [Dark Version](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png)
-- [Read-me in Traditional Chinese](ReadMe.zh-Hant.md)
-- [Read-me in Simplified Chinese](ReadMe.zh-Hans.md)
-- [Read-me in Turkish](ReadMe-tr.md)
-- [Read-me in Japanese](ReadMe.ja.md)
-
 > Roadmap to becoming an [ASP.NET Core](https://docs.microsoft.com/aspnet/core) developer in 2022:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an ASP.NET Core developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an ASP.NET Core developer?"
@@ -17,10 +7,6 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 ## Disclaimer
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
-
-## Give a Star! :star:
-
-If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
 ## Roadmap
 
@@ -243,32 +229,6 @@ If you like or are using this project to learn or start your solution, please gi
     - [NodaTime](https://github.com/nodatime/nodatime)
     - [GenFu](https://github.com/MisterJames/GenFu)
     - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
-
-## Wrap Up
-
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
-
-Idea from : [React Developer RoadMap](https://github.com/adam-golab/react-developer-roadmap)
-
-## Contribution
-
-Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/CONTRIBUTING.md).
-
-## Credits
-
-### Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/AspNetCore-Developer-Roadmap#backer)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap#backers" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/backers.svg?width=890"></a>
-
-### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/AspNetCore-Developer-Roadmap#sponsor)]
-
-<a href="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/website" target="_blank"><img src="https://opencollective.com/AspNetCore-Developer-Roadmap/sponsor/0/avatar.svg"></a>
-
-
 
 ## License
 
