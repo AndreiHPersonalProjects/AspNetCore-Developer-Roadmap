@@ -10,7 +10,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 ## Roadmap
 
-![Roadmap](./aspnetcore-developer-roadmap-printable.png)
+![Roadmap](./aspnetcore-developer-roadmap.png)
 
 ## Resources
 
